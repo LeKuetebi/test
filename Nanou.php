@@ -7,3 +7,6 @@
  */
 
 //nouveau fichier php pour tester que Nanou connait coder
+$test="var";
+
+echo($test);
