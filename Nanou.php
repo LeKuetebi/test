@@ -7,6 +7,7 @@
  */
 
 //nouveau fichier php pour tester que Nanou connait coder
+$var=2+4;
 $test="var";
 
 echo($test);
